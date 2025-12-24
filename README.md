@@ -26,6 +26,9 @@ Welcome to my GitHub! I'm passionate about **Python development, machine learnin
 
 ---
 
+<img src="https://github.com/JahanzebAhmed12/JahanzebAhmed12/main/ai-animation.gif?raw=true" alt="AI GIF" width="80%">
+
+
 ## 🔭 Currently Working On
 - A **Python package** to convert Markdown files into full project structures  
 - Real-time **trading strategy backtesting engine** using Python and APIs  

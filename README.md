@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm passionate about **Python development, machine learnin
 
 ---
 
-<img src="https://github.com/JahanzebAhmed12/JahanzebAhmed12/main/ai-animation.gif?raw=true" alt="AI GIF" width="80%">
+<img src="https://github.com/JahanzebAhmed12/JahanzebAhmed12/blob/d3b6488fe34a6bbcae5741906c871a83e56b7228/ai_animation.gif" alt="AI GIF" width="80%">
 
 
 ## 🔭 Currently Working On
